@@ -1,1 +1,2 @@
 # Home_Sales
+Due to the fact that I was unable to setup Spark and Java compatibly on my local system, I used databricks to complete the homework. The ipynb file in this repository has been exported from the databricks session I used to complete the homework assignment. I then published the notebook in databricks. For the published databricks notebook, please see https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2938235998916852/2021972478966399/5200638329299319/latest.html 
